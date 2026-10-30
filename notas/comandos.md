@@ -1,4 +1,4 @@
-# Comandos que aprendí
+# Comandos que aprendí en la practica 
 
 | Comando | Para qué sirve |
 |---|---|
