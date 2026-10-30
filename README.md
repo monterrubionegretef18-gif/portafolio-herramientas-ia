@@ -9,6 +9,6 @@ Estudio Ingeniería en IA y me interesa el **procesamiento de lenguaje natural**
 - [Mis comandos de terminal y Git (Práctica 4)](notas/comandos.md)
 
 ## Mi proyecto
-- [Repositorio del equipo](https://github.com/tu-usuario/tu-repositorio-de-equipo)
+- [Repositorio del equipo](https://github.com/monterrubionegretef18-gif/portafolio-herramientas-ia.git)
 
 Cuenta de GitHub: @monterrubionegretef18-gif
